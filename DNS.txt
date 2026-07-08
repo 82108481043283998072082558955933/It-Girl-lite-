@@ -1,0 +1,12 @@
+Domain: itgirlacademy-softlife.halospark.net
+GitHub account / target: 82108481043283998072082558955933
+
+GitHub Pages CNAME file in this repo should contain:
+itgirlacademy-softlife.halospark.net
+
+DNS record to add at your domain host for the subdomain:
+Type: CNAME
+Host/Name: itgirlacademy-softlife
+Value/Target: 82108481043283998072082558955933.github.io
+
+If GitHub asks for domain verification with a TXT record, add the exact TXT value GitHub gives you in your DNS provider. Do not use this file as the DNS record itself; it is just a helper note saved in the repo.
